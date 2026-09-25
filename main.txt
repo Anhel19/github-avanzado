@@ -1,1 +1,1 @@
-   Este es el archivo principal de la rama main
+Este archivo está en la rama main
